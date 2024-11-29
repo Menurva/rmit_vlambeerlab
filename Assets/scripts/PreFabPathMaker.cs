@@ -11,7 +11,7 @@ public class PreFabPathmaker : MonoBehaviour
 
     // Static variable to keep track of the total number of tiles created
     public static int globalTileCount = 0;
-    public static int maxTileCount = 500; // Maximum allowed number of tiles in the world
+    public static int maxTileCount = 550; // Maximum allowed number of tiles in the world
 
     void Update()
     {
