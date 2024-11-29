@@ -2,10 +2,10 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Pathmaker : MonoBehaviour
+public class PreFabPathmaker : MonoBehaviour
 {
     // STEP 2: Declare class member variables
-    private int counter = 0; // Counter to track how many floor tiles have been instantiated
+    private int counter = 0; // Counter to track how manyS floor tiles have been instantiated
     public Transform floorPrefab; // Assign the floor tile prefab in the Inspector
     public Transform pathmakerSpherePrefab; // Assign the pathmaker sphere prefab in the Inspector
 
