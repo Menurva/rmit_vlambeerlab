@@ -584,7 +584,6 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 2049997913}
-  - component: {fileID: 2049997912}
   - component: {fileID: 2049997914}
   m_Layer: 0
   m_Name: generate sphere manager
@@ -593,23 +592,6 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!114 &2049997912
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2049997911}
-  m_Enabled: 0
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 8adc9e947d97d084e9a66180802b1bc7, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  floorPrefab: {fileID: 1273053879}
-  pathmakerSpherePrefab: {fileID: 7399467128825902787}
-  startGenerationKey: 32
-  stopAndResetKey: 114
-  mainCamera: {fileID: 716888065}
 --- !u!4 &2049997913
 Transform:
   m_ObjectHideFlags: 0
