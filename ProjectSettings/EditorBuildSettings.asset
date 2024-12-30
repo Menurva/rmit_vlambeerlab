@@ -6,6 +6,9 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/scenes/mainLabScene.unity
-    guid: 384f4adf85baa2544971af41ddf707d1
+    path: Assets/scenes/Menu.unity
+    guid: 04af7b3879649c344a91d53c3c0165de
+  - enabled: 1
+    path: Assets/scenes/GenWithTobeyCode.unity
+    guid: d083e28fa328868478f475c586aa7f57
   m_configObjects: {}
